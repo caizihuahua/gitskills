@@ -1,3 +1,7 @@
 this is a trail to get gitskills.
 i want to success.
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
+=======
+Creating a branch is quick and simple.
+>>>>>>> featurel
